@@ -1,4 +1,6 @@
-package program;
+package br.com.letscode.catalogoculinario.domain;
+import br.com.letscode.catalogoculinario.enums.Categoria;
+
 import java.util.List;
 
 public class Receita {

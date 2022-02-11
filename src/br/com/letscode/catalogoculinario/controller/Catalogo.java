@@ -1,4 +1,6 @@
-package program;
+package br.com.letscode.catalogoculinario.controller;
+
+import br.com.letscode.catalogoculinario.domain.Receita;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package program;
+package br.com.letscode.catalogoculinario.enums;
 
 public enum TipoRendimento {
     PORCOES,

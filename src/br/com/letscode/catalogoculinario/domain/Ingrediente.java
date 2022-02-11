@@ -1,4 +1,6 @@
-package program;
+package br.com.letscode.catalogoculinario.domain;
+
+import br.com.letscode.catalogoculinario.enums.TipoMedida;
 
 public class Ingrediente {
     private String nomeIngrediente;
